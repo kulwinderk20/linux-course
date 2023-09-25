@@ -3,7 +3,7 @@
 ##Braiterman et al 2020: Threat modeling manifesto
 
 The Threat Modeling Manifesto is like some roadmap for making our computer systems safer and more secure. It is a bit like the rules we follow while we drive on the road. It tells us what is really important and what we should avoid.
-Values: These are like priorities and which are on our top of the list. For threat modeling, we care more about the things, which are on the left side of the list. So, for example, working together and adapting are more important than just following a set of rules.
+Values: These are like priorities and which are on the top of the list. For threat modeling, we care more about the things, which are on the left side of the list. So, for example, working together and adapting are more important than just following a set of rules.
 Principles: These are the basic truths of threat modeling. They're like the foundation of a building. Some principles are really important, like understanding how our systems are working and talking to others to find problems. Others are the things we should avoid, like making threat modeling too complicated.
 
 ##Shostack 2022:
