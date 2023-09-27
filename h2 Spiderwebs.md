@@ -11,12 +11,13 @@ Mismanaged security configurations of web server stack, underlying Operation Sys
  
 •	A06:2021-Vulnerable and Outdated Components: A06:2021-Vulnerable and Outdated Components was previously titled Using Components with Known Vulnerabilities and is #2 in the Top 10 community survey, but also had enough data to make the Top 10 via data analysis. This category moves up from #9 in 2017 and is a known issue that we struggle to test and assess risk. It is the only category not to have any Common Vulnerability and Exposures (CVEs) mapped to the included CWEs, so a default exploit and impact weights of 5.0 are factored into their scores.
 
-•	A03:2021-Injection: SQL Injection, Insecure deserialization https://portswigger.net/web-security/deserialization
-Directory traversal https://portswigger.net/web-security/file-path-traversal
-Access control https://portswigger.net/web-security/access-control
-Authentication https://portswigger.net/web-security/authentication
-OAuth authentication https://portswigger.net/web-security/oauth
-Business logic vulnerabilities https://portswigger.net/web-security/logic-flaws
+•	A03:2021-Injection: SQL Injection, 
+*Insecure deserialization https://portswigger.net/web-security/deserialization
+*Directory traversal https://portswigger.net/web-security/file-path-traversal
+*Access control https://portswigger.net/web-security/access-control
+*Authentication https://portswigger.net/web-security/authentication
+*Auth authentication https://portswigger.net/web-security/oauth
+*Business logic vulnerabilities https://portswigger.net/web-security/logic-flaws
 
 Goat. Install webgoat. – I have tried to install in the mac but unable to install, every time getting an error. 
 d) Sequel. Solve SQLZoo:
