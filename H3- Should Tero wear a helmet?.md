@@ -1,0 +1,47 @@
+#h3-Should Tero wear a helmet?
+
+##Braiterman et al 2020: Threat modeling manifesto
+
+The Threat Modeling Manifesto is like some roadmap for making our computer systems safer and more secure. It is a bit like the rules we follow while we drive on the road. It tells us what is really important and what we should avoid.
+Values: These are like priorities and which are on the top of the list. For threat modeling, we care more about the things, which are on the left side of the list. So, for example, working together and adapting are more important than just following a set of rules.
+Principles: These are the basic truths of threat modeling. They're like the foundation of a building. Some principles are really important, like understanding how our systems are working and talking to others to find problems. Others are the things we should avoid, like making threat modeling too complicated.
+
+##Shostack 2022:
+
+what is threat model: We threat model to anticipate problems, before coding, the chip has been precurded. It is set of methods
+1. What are we working on?
+2. what can go wrong?
+3. what can we do about it?
+4. did we do a good job?
+
+##Threat Modeling Cheat Sheet
+It is a concise reference guide used in cybersecurity and software development that identifies systematically, assesses, and mitigates potential threats and vulnerabilities in a system or application. Also, it condenses complex threat modeling methodologies into a practical, easy-to-follow format.
+Below mentioned cheat sheet typically includes the following components
+1. System Overview: A high-level description of the system or application under analysis, outlining its key components and functionalities.
+2. Data Flow Diagram: A visual representation of how data flows through the system, including input sources, data processing, and output destinations.
+3. Threat Sources: Identification of potential threat actors or sources, such as hackers, insiders, or malicious software.
+4. Threat Categories: Categorization of threats based on types, such as data breaches, denial of service, or privilege escalation.
+5. Assets at Risk: Listing of critical assets, including data, hardware, or software components, that need protection.
+6. Vulnerabilities: Identification of potential weaknesses or vulnerabilities in the system, like insecure authentication or inadequate encryption.
+7. Mitigation Strategies: Recommendations for addressing identified vulnerabilities and reducing the risk of threats, often including best practices and security controls.
+8. Risk Assessment: Evaluation of the overall risk level, helping prioritize mitigation efforts.
+
+The cheat sheet serves as a reference for security professionals and developers to perform efficient threat modeling exercises, to ensure that security concerns are integrated into the design and development process from the beginning, ultimately enhancing the resilience of the system against cyber threats.
+
+##Security Hygiene
+
+It is the day-to-day practice of maintaining the basic health and security for software and hardware assets. For instance- making sure that only the right ports are open to perform tasks, ensuring proper software patch levels, and cybersecurity awareness training.
+Security hygiene focuses more on a boots-on-the-ground approach. Password policies, asset inventories, and file encryption schemes 
+-  these are the frontline tools that make a hygiene program successful
+The Aim or goal is to protect every sensitive data from attack by educating users, adopting tools, and managing processes to ensure a strong security posture for your organization.
+
+##Some common gaps in Security Hygiene
+An organization typically must cover multiple elements under its security umbrella, each with its own set of potential vulnerabilities. From employees and customers to computers and mobile phones, there are many opportunities for malicious actors to exploit:
+
+- Old software versions- These software are more vulnerable or prone to attack, especially when it comes to security patch levels.
+- Weak passwords and authentication methods - These are other reasons or causes that are tender for exploitation. As evidenced by the infamous SolarWinds hack last year. While there is no official confirmation received from the organization, Former - CEO Kevin Thompson said that 'it may have been performed by a hacker using a password of “solarwinds123”.'
+- Unsafe email and web browsing habits by employees can lead to ransomware attacks, with phishing being the leading cause.
+
+Security ActionPlan
+
+Building a culture for security within the organization; it requires a combination of processes, tools, and training that can help everyone to become aware of cyber security information or cyber hygienists.
