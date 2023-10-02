@@ -27,4 +27,35 @@ According to https://www.sttmedia.com/characterfrequency-English, this is the fr
 
 ![image](https://github.com/kulwinderk20/linux-course/assets/143431878/7733a7ff-122e-49ef-933a-bdf1de9e70ff)
 
+## Password manager Dashlane:
+
+https://www.dashlane.com/
+
+* What threats does it protect against?
+  - It protects from your identity theft and password theft.
+
+* What information is encrypted, what's not?
+  - Sensitive data like personal info, financial transactions, and healthcare records. It secures communication content, stored data, and authentication credentials. However, publicly accessible info, metadata, and non-sensitive internal data may not be encrypted.
+
+* What's the license? How would you describe license's effects or categorize it?
+  - A license refers to a legal agreement or we can say permission granted by the owner of software, data, or technology to users, on some ter,ms and conditions for usage, distribution, and modification. License can be categorized into various types, like open source licenses that encourage sharing and modification while requiring attribution, and proprietary licenses that restrict access and modification rights. Licensing affects information security by governing access, ensuring compliance with copyright laws, protecting intellectual property, and determining how software or data can be used, shared, and secured. Properly managing licenses is crucial for maintaining security, avoiding legal issues, and respecting ownership rights.
+
+* Where is the data stored? If in "the cloud", which country / juristiction / which companies? If on local disk, where?
+  - Well, Data storage location varies as it depends on user choices and service providers.
+  - If in the cloud, data can be stored in various countries and jurisdictions depending on the cloud service provider (e.g., AWS, Azure, Google Cloud). Wherein users may choose a specific region for storage.
+  - Local disk storage depends on the device's physical location; it could be a personal computer, server, or data center, with geographic specifics determined by the user or organization.
+  - Data location affects jurisdictional laws, privacy regulations, and accessibility. Users should be careful while considering their data storage choices to align with legal and security requirements.
+
+* How is the data protected?
+  - Data is protected through encryption, access controls, and regular security updates. Encryption ensures data remains unreadable without the correct keys. Access controls limit who can access data. Regular security updates patch vulnerabilities.
+  - Public Key is stored by Dashlane on their servers and the Private Key is locally on the user's app.
+ 
+## Cracking ciphertext
+
+ 
+    *
+
+
+  
+
 
