@@ -52,8 +52,37 @@ https://www.dashlane.com/
  
 ## Cracking ciphertext
 
+  HDMH'B TH. KWU'YI AWR WSSTOTMJJK M OWQINYIMLIY! MB KWU BII, BTGPJI BUNBHTHUHTWA OTPDIYB OMA NI NYWLIA RTHD SYIEUIAOK MAMJKBTB. BII KWU MH DHHP://HIYWLMYCTAIA.OWG
+
+THAT'S IT. YOU'RE NOW OFFICIALLY A COQEBREAKER! AS YOU SEE, SIMPLE SUBSTITUTION CIPHERS CAN BE BROKEN WITH FREQUENCY ANALYSIS. SEE YOU AT HTTP://TEROKARVINEN.COM
+- H= T,
+D= H,
+M = A,
+T= I,
+B= S,
+KWU=You,
+YI=re,
+R=W,
+W=O,
+O=C,
+S=F,
+IY=ER,
+A=N,
+J=L,
+K=Y,
+SII= See,
+G=M,
+E=Q,
+N=B,
+L=K,
+ - After, investing a long time started with the HTTP to filler out and started seeing the letters one by one and tried to replace them and later with when few were left like - COQEBREAKER! - changed to Codebreaker and SII- See, KWU to You, and TEROLAYCINEN with TEROKARVINEN.COM 
+. Although It took me almost a day. With the original code and new code with changes to see the difference as I was working on MS word with replacing letters was mixing up things. So, I worked on it again with the given code and a new one with changes.
+
  
-    *
+
+ 
+
+
 
 
   
